@@ -3,8 +3,8 @@
   [![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
   
   ## Description
-  - This challenge was to create an interface or a content management system (CMS) that allows non-developers to easily view and interact information stored in databases. With starter code, I built a command-line application to help manage a company’s employee database using Node.js, Inquirer, and MySQL.
-  - To show a basic understanding MySQL and to complete a bootcamp challenge.
+  - This challenge was to create an interface or a content management system (CMS) that allows non-developers to easily view and interact with information stored in databases. With starter code, I built a command-line application to help manage a company’s employee database using Node.js, Inquirer, and MySQL.
+  - Demonstrate a basic understanding of MySQL.
   - FullStack Bootcamp challenge
   - The project allows non-developers to easily view and interact with information stored in databases.
   
@@ -20,12 +20,12 @@
   ## Installation
   1. When starting off in the terminal, enter 'npm install' to install the node required dependencies. 
   2. Configure your MySQL user/password in the server.js. 
-  3. Enter the following commands in you MySQL command line to build the database and tables and to seed/populate the needed tables:
+  3. Enter the following commands in your MySQL command line to build the database and tables and to seed/populate the needed tables:
   'mysql -u root -p'
   'SOURCE  db/schema.sql'
   'SOURCE db/seed.sql' 
-  4. You'll need to make an '.env' file to handle the MySQL connection. 
-  5. To start the Employee Tracker, you need the command 'npm start'.
+  4. Make an '.env' file to handle the MySQL connection. 
+  5. To start the Employee Tracker, enter 'npm start'.
   
   ## Usage
   ![demo of the project]()

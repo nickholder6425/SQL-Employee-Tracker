@@ -37,12 +37,12 @@
   undefined
   
   ## Credits
-  [Starter Code](https://github.com/jscobie/EmployeeTracker/blob/main/server.js)
-  [Node.js](https://nodejs.org/en/ )
-  [Console.table npm package](https://www.npmjs.com/package/console.table)
-  [Mysql2 npm package](https://www.npmjs.com/package/mysql2)
-  [Inquirer npm package (Version 8.2.4)](https://www.npmjs.com/package/inquirer/v/8.2.4)
-  [dotenv npm package](https://www.npmjs.com/package/dotenv)
+  - [Starter Code](https://github.com/jscobie/EmployeeTracker/blob/main/server.js)
+  - [Node.js](https://nodejs.org/en/ )
+  - [Console.table npm package](https://www.npmjs.com/package/console.table)
+  - [Mysql2 npm package](https://www.npmjs.com/package/mysql2)
+  - [Inquirer npm package (Version 8.2.4)](https://www.npmjs.com/package/inquirer/v/8.2.4)
+  - [dotenv npm package](https://www.npmjs.com/package/dotenv)
 
   
   ## Deployment

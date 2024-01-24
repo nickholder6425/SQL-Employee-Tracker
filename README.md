@@ -19,9 +19,10 @@
   1. When starting off in the terminal, enter 'npm install' to install the node required dependencies. 
   2. Configure your MySQL user/password in the server.js. 
   3. Enter the following commands in your MySQL command line to build the database and tables and to seed/populate the needed tables:
-  'mysql -u root -p'
-  'SOURCE  db/schema.sql'
-  'SOURCE db/seed.sql' 
+  - 'mysql -u root -p'
+  - 'SOURCE  db/schema.sql'
+  - 'SOURCE db/seed.sql' 
+
   4. Make an '.env' file to handle the MySQL connection. 
   5. To start the Employee Tracker, enter 'npm start'.
   

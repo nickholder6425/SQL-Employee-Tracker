@@ -1,4 +1,6 @@
 # SQL Employee Tracker
+
+[![License](https://img.shields.io/badge/License-None-brightgreen.svg)](https://opensource.org/licenses/None)
   
   ## Description
   - This challenge was to create an interface or a content management system (CMS) that allows non-developers to easily view and interact with information stored in databases. With starter code, I built a command-line application to help manage a company’s employee database using Node.js, Inquirer, and MySQL.
@@ -32,7 +34,7 @@
   ![Screenshot](./assets/image/SQL-Employee%20Tracker.png)
 
   ## License
-  NONE
+  This project is licensed under the [None](https://opensource.org/licenses/None) License - see the [LICENSE](LICENSE) file for details.
   
   ## Tests
   undefined

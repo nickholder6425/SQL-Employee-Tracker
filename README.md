@@ -1,7 +1,5 @@
 # SQL Employee Tracker
   
-  [![License]('')
-  
   ## Description
   - This challenge was to create an interface or a content management system (CMS) that allows non-developers to easily view and interact with information stored in databases. With starter code, I built a command-line application to help manage a company’s employee database using Node.js, Inquirer, and MySQL.
   - Demonstrate a basic understanding of MySQL.
@@ -33,8 +31,7 @@
   ![Screenshot](./assets/image/SQL-Employee%20Tracker.png)
 
   ## License
-  
-  This project is licensed under the [MIT](https://opensource.org/licenses/MIT) License - see the [LICENSE](LICENSE) file for details.
+  NONE
   
   ## Tests
   undefined

@@ -30,7 +30,8 @@
   ## Usage
   ![demo of the project]()
   
-  
+  ![Screenshot](./assets/image/SQL-Employee%20Tracker.png)
+
   ## License
   
   This project is licensed under the [MIT](https://opensource.org/licenses/MIT) License - see the [LICENSE](LICENSE) file for details.
